@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Status>
+  <ApplicationName>Dictionary</ApplicationName>
+  <AddItemDirectory>WorkSpace\AddItem\</AddItemDirectory>
+  <ReadDataDirectory>WorkSpace\ReadData\</ReadDataDirectory>
+  <ReadErrDataDirectory>WorkSpace\ReadErrData\</ReadErrDataDirectory>
+  <TempDirectory>WorkSpace\Temp\</TempDirectory>
+  <ErrorInfoDirectory>WorkSpace\ErrorInfo\</ErrorInfoDirectory>
+  <LogInfoDirectory>WorkSpace\LogInfo\</LogInfoDirectory>
+</Status>
